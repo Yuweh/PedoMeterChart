@@ -2,8 +2,8 @@
 //  LineChartView.m
 //  LineChart
 //
-//  Created by Wildog on 9/16/16.
-//  Copyright © 2016 Wildog. All rights reserved.
+//  Created by Jay Bergonia on 28/08/2019.
+//  Copyright © 2019 Jay Bergonia. All rights reserved.
 //
 
 #import "WDLineChartView.h"
